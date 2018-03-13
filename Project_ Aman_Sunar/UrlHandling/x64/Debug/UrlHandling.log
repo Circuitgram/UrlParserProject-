@@ -1,0 +1,9 @@
+﻿  UrlFormatException.cpp
+  Url.cpp
+  SchemeExtractor.cpp
+  QueryExtractor.cpp
+  PathExtractor.cpp
+  LocationExtractor.cpp
+  FragmentExtractor.cpp
+  Generating Code...
+  UrlHandling.vcxproj -> F:\project\url-parser-initial-master\x64\Debug\UrlHandling.lib
